@@ -44,7 +44,7 @@ const ContactDetails = () => {
           <div className="contact-item glass-panel">
             <div className="contact-icon">💼</div>
             <h3 className="contact-label">LinkedIn</h3>
-            <a href="https://www.linkedin.com/in/rivo-khara-9966002b7/" target="_blank" rel="noopener noreferrer" className="contact-link">LinkedIn Profile</a>
+            <a href="https://www.linkedin.com/in/rivo-khara-9966002b7" target="_blank" rel="noopener noreferrer" className="contact-link">LinkedIn Profile</a>
           </div>
           <div className="contact-item glass-panel">
             <div className="contact-icon">🐦</div>
