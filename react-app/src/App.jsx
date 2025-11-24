@@ -22,8 +22,8 @@ function App() {
     <div className={`app ${isLoaded ? 'loaded' : ''}`}>
       <Navbar />
       <Hero />
-      <ContactDetails />
       <About />
+      <ContactDetails />
       <Skills />
       <Projects />
       <Education />
